@@ -1,0 +1,48 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+body{
+	background: url(../img/bg2.jpg);
+	background-size: cover;
+
+
+}
+
+.container {
+	width: 400px;
+	height: 500px;
+	margin: 60px auto;
+	border: 2px solid #000;
+	border-radius: 10px;
+}
+
+.title h1{
+	text-align: center;
+}
+
+.title p{
+	text-align: center;
+}
+
+.input input{
+	width: 90%;
+	margin: 10px;
+	padding: 5px;
+	border-radius: 2px;
+}
+
+.input label{
+	font-size: 12px;
+	padding-left: 10px;
+	font-weight: 600;
+	letter-spacing: 0.8px;
+}
+
+.submit_btn input{
+	width: 40%;
+	margin: 30px auto;
+	height: 30px;
+}
